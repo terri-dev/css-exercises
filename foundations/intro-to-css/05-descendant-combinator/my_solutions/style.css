@@ -1,0 +1,6 @@
+/* Add CSS Styling */
+.container .text {
+    background-color: hsla(60, 100%, 50%, 1);
+    color: red;
+    text-align: center;
+}

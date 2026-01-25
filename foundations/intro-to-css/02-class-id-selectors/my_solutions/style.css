@@ -1,0 +1,21 @@
+/* Add CSS Styling */
+
+.first_class{
+    background-color: hsl(360, 100%, 50%, 0.4);
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#first_id {
+    color: blue;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+#second_id {
+    background-color: hsl(120, 100%, 50%, 0.4);
+    font-weight: bold;
+}
+.bold{
+    font-size: 30px;
+}
