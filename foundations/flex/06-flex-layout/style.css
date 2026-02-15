@@ -16,8 +16,9 @@ img {
 button {
   font-family: Roboto, sans-serif;
   border: none;
-  border-radius: 8px;
+  border-radius: 18px;
   background: #eee;
+  padding: 10px 20px;
 }
 
 input {
@@ -59,8 +60,7 @@ a {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: auto;
-  margin: auto;
+  flex: 1;
 }
 .buttons {
   display: flex;
